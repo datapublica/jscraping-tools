@@ -1,0 +1,38 @@
+<liste_de_personnes>
+    <personne categorie="politique">
+        <nom>Obama</nom>
+        <prenom>Barack</prenom>
+        <poste>Président des Etats-Unis</poste>
+        <sexe>H</sexe>
+    </personne>
+    <personne categorie="chanson">
+        <nom>Dylan</nom>
+        <prenom>Bob</prenom>
+        <poste>Meilleur chanteur de tous les temps</poste>
+        <sexe>H</sexe>
+    </personne>
+    <personne categorie="politique">
+        <nom>Jaurès</nom>
+        <prenom>Jean</prenom>
+        <poste>Défunt politique</poste>
+        <sexe>H</sexe>
+    </personne>
+    <personne categorie="chanson">
+        <nom>Baez</nom>
+        <prenom>Joan</prenom>
+        <poste>Reine du folk</poste>
+        <sexe>F</sexe>
+    </personne>
+    <personne categorie="chanson">
+        <nom>Ferrat</nom>
+        <prenom>Jean</prenom>
+        <poste>Chanteur engagé</poste>
+        <sexe>H</sexe>
+    </personne>
+    <personne categorie="politique">
+        <nom>Ferrat</nom>
+        <prenom>André</prenom>
+        <poste>Militant communiste</poste>
+        <sexe>H</sexe>
+    </personne>
+</liste_de_personnes>

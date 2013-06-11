@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project xmlns="http://maven.apache.org/POM/4.0.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/maven-v4_0_0.xsd">
+    <!-- POM version -->
+    <modelVersion>4.0.0</modelVersion>
+    <!-- Project description -->
+    <parent>
+        <groupId>com.datapublica</groupId>
+        <artifactId>scraping-root</artifactId>
+        <version>0.1-SNAPSHOT</version>
+    </parent>
+    <artifactId>scraping</artifactId>
+    <name>Scraping tools for the Java platform - Full dependencies</name>
+    <packaging>jar</packaging>
+    <!-- Dependencies -->
+    <dependencies>
+        <dependency>
+            <groupId>commons-io</groupId>
+            <artifactId>commons-io</artifactId>
+        </dependency>
+        <dependency>
+            <groupId>com.datapublica</groupId>
+            <artifactId>scraping-io</artifactId>
+        </dependency>
+        <dependency>
+            <groupId>com.datapublica</groupId>
+            <artifactId>scraping-xpath</artifactId>
+        </dependency>
+    </dependencies>
+</project>
