@@ -6,7 +6,7 @@
     <parent>
         <groupId>com.datapublica</groupId>
         <artifactId>scraping-root</artifactId>
-        <version>0.1-SNAPSHOT</version>
+        <version>0.1</version>
     </parent>
     <artifactId>scraping-example</artifactId>
     <name>Scraping tools for the Java platform - Examples</name>

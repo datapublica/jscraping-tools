@@ -4,7 +4,7 @@
     <!-- Project description -->
     <groupId>com.datapublica</groupId>
     <artifactId>scraping-root</artifactId>
-    <version>0.1-SNAPSHOT</version>
+    <version>0.1</version>
     <name>Scraping tools for the Java platform</name>
     <packaging>pom</packaging>
     <!-- Properties -->
